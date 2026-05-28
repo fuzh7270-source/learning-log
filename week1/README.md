@@ -48,3 +48,11 @@ What I learned today:
 -while true
 -try/except and if mixed
 
+## Day10
+-function
+-Arguments
+-function calls
+-if/elif/else
+-try/except
+-Error handling
+
