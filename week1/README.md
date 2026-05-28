@@ -42,3 +42,9 @@ What I learned today:
 -file open/write/read
 -creat memo.txt
 -Git/GitHub handling
+
+## Day9
+-try/except
+-while true
+-try/except and if mixed
+
