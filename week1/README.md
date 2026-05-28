@@ -56,3 +56,10 @@ What I learned today:
 -try/except
 -Error handling
 
+## Day 11
+-add tasks
+-show task list 
+-exit programm
+-menu-based interaction
+
+
