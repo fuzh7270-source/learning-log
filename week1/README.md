@@ -11,55 +11,69 @@ What I learned today:
 -Git commit and push
 
 ## Day2
--Budget calculator
--input()
--Variables and calculator
+-Created a simple budget calculator
+-Learned variables and input()
+-Practiced basic calculator
+-Converted strings to integers with int()
 
 ## Day3
--Reviewing what I learned yesterday
--int, input
--if, elif, else
+-Reviewed Python basics 
+-Learned if/elif/else 
+-Practiced conditional statements
+-Created simple decision programs
 
 ## Day4
--while
--count
+-Learned while loops
+-Practiced loop repetition
+-Created counter program 
+-Improved understanding of program flow
 
 ## Day5
--List
--index(number)
--append()
--for
+-Learned lists and indexing
+-Used append() to add date
+-Practiced for loops
+-Created simple list-based programs
 
 ## Day6
--function
--def
--dictionary
+-Learned functions and def
+-Created reusable functions
+-Practiced function calls
+-Learned dictionary basics
 
 ## Day7
--List, dictionary, for, append mixed
+-Combined lists and dictionaries 
+-Practiced for loops with mixed data
+-Improved data handling skills
+-Created more complex structures
 
 ## Day8
--file open/write/read
--creat memo.txt
--Git/GitHub handling
+-Learned file open/write/read
+-Created memo.txt
+-Practiced Git and Github operations
+-Learned basic file handling
 
 ## Day9
--try/except
--while true
--try/except and if mixed
+-Learned try/except
+-Handled invalid user input
+-Created retry systems with while loops
+-Practiced error handling
 
 ## Day10
--function
--Arguments
--function calls
--if/elif/else
--try/except
--Error handling
+-Learned functions and arguments
+-Created reusable greeting functions
+-Practiced function calls
+-Combined functions with conditions
 
 ## Day 11
--add tasks
--show task list 
--exit programm
--menu-based interaction
+-Created a menu-based task manager
+-Added and displayed task lists
+-Used while loops and if/elif
+-Practiced user interaction systems
+
+## Day 12
+-Added delete function to task manager
+-Used list index and pop()
+-Practiced variable managemant
+-Improved interactive console application
 
 
