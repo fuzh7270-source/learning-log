@@ -76,4 +76,13 @@ What I learned today:
 -Practiced variable managemant
 -Improved interactive console application
 
+## Day 13
+-Leared how to organize code using functions
+-Created function-based task maneger 
+-Separated add/show/delete/ features into functions
+-Practiced function calls
+-Improved code readability
+-Learned reusable code structure
+-Practiced error handling with try/except
+
 
