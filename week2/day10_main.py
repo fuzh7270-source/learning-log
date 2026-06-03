@@ -18,3 +18,4 @@ while True:
         print("Please enter a number")
 
 check_score(45)
+
