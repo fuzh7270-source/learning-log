@@ -85,4 +85,13 @@ What I learned today:
 -Learned reusable code structure
 -Practiced error handling with try/except
 
+## DAy14
+-Created a task manager app
+-Added tasks to a list
+-Displayed saved tasks
+-Saved tasks to tasks.txt
+-Loaded tasks from tasks.txt
+-Practiced file gandling with open(),write(),and read()
+-Fixed file closing errors
+-Improved debugging skills
 
