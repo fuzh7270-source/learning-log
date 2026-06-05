@@ -95,3 +95,9 @@ What I learned today:
 -Fixed file closing errors
 -Improved debugging skills
 
+## Day15
+-Created functions.py
+-Imported functions into another file
+-Used import and from...import...
+-Learned module structure
+-Organized code into multiple files
