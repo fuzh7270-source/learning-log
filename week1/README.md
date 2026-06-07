@@ -101,3 +101,11 @@ What I learned today:
 -Used import and from...import...
 -Learned module structure
 -Organized code into multiple files
+
+## Day16
+-Learned how class work as blueprints
+-Created Person objects with name and age
+-Used __init__ to set intial values
+-Practiced using self inside a class
+-Added and called custom methods
+-Understood the difference between a class
