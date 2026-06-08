@@ -109,3 +109,12 @@ What I learned today:
 -Practiced using self inside a class
 -Added and called custom methods
 -Understood the difference between a class
+
+## Day17
+-Created a Task class
+-Stored tasks as objects
+-Added methods to a class
+-Used object attributes
+-Combined classes with lists
+-Built a simple task manager
+-Practiced object-oriented programming basics
