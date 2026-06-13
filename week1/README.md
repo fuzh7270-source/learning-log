@@ -118,3 +118,12 @@ What I learned today:
 -Combined classes with lists
 -Built a simple task manager
 -Practiced object-oriented programming basics
+
+## Day18
+-Learned how to use the random module 
+-Generated random numbers with random.randint()
+-Built a number guessing game
+-Compared user input with a random value 
+-Practiced if, elif and else conditions
+-Combined input(), int(), and random numbers
+-Created a simple game useing Python
