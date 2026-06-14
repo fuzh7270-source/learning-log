@@ -127,3 +127,12 @@ What I learned today:
 -Practiced if, elif and else conditions
 -Combined input(), int(), and random numbers
 -Created a simple game useing Python
+
+## Day19
+-Built a complete number guessing game
+-Used random numbers
+-Repeated input with while true 
+-Counted attempts with +=1
+-Combined if/elif/else with loops
+-Added error handling useing try/except
+-Created an interactive console game
