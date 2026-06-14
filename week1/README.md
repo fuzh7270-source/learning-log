@@ -136,3 +136,13 @@ What I learned today:
 -Combined if/elif/else with loops
 -Added error handling useing try/except
 -Created an interactive console game
+
+## Day20
+-Reviewed functions
+-Learned how to use return
+-Created get_guess() functions
+-Created check_answer() functions
+-Used return values
+-Organized code into smaller functions
+-Built a number guessing game with functions
+-Improved code readability
