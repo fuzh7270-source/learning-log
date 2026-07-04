@@ -146,3 +146,11 @@ What I learned today:
 -Organized code into smaller functions
 -Built a number guessing game with functions
 -Improved code readability
+
+## Day21
+-Learned how to split code into multiple files
+-Created and used a separate funktions.py file
+-imported funktions with from functions import
+-Called functions from another Python file
+-Practiced organizing code for better readability
+-Understood the basic idea of modules in Python
