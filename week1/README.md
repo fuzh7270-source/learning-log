@@ -154,3 +154,12 @@ What I learned today:
 -Called functions from another Python file
 -Practiced organizing code for better readability
 -Understood the basic idea of modules in Python
+
+## Day22
+-Learned how to use function arguments
+-Passed values to functions
+-Practiced using multiple arguments
+-Used return to send values back
+-Ceated reusable functions 
+-Built simple calculator functions(add, subtract, multiply)
+-Improved understanding of function inputs and outputs
